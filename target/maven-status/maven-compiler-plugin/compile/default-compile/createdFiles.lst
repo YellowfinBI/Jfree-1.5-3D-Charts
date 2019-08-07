@@ -1,0 +1,6 @@
+org/jfree/chart/renderer/category/StackedBarRenderer3D.class
+org/jfree/chart/renderer/category/LineRenderer3D.class
+org/jfree/chart/axis/NumberAxis3D.class
+org/jfree/chart/Effect3D.class
+org/jfree/chart/renderer/category/BarRenderer3D.class
+org/jfree/chart/axis/CategoryAxis3D.class
